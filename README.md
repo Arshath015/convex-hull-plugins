@@ -83,3 +83,9 @@ The roadmap for this project is as follows:
 
 ## License
 This project is licensed under the MIT license.
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
